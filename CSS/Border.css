@@ -1,0 +1,20 @@
+.a1{
+    border: 6px solid black;
+    background-color: rgba(127, 255, 212, 0.372);
+    
+}
+
+.a2{
+    border: 4px solid black; 
+    background-color: rgba(127, 255, 212, 0.217);
+}
+
+.a3{
+    border: 2px solid black;
+    background-color: rgba(127, 255, 212, 0.249);
+}
+
+.a4{
+    
+    background-color: rgba(127, 255, 212, 0.249);
+}
