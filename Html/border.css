@@ -1,0 +1,25 @@
+body
+{
+    padding: 0;
+    margin: 0;
+}
+
+#withborder img
+{
+    width:100px;
+    border: 2px solid violet;
+
+}
+
+#withoutborder img
+{
+    width:100px;
+    border: 2px;
+
+}
+
+img
+{
+    height: 100px;
+    width:100px;
+}
